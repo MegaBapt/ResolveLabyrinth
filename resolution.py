@@ -167,13 +167,6 @@ class Intersection:
 
 
 
-##inter = Intersection(None, None, None, None)
-#inter.direction()
-#inter.initArrivee()
-#	print(inter.isArrivee())
-
-
-
 class Couloir:
 	ligne = 0
 	colonne = 0
